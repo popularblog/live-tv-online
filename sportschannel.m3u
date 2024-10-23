@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="The Gamma People (1956)" tvg-logo="http://starshare.live:8080/images/89b542c86defcb0bb24d181013c1aeb0.jpg" group-title="ENGLISH 1999-2020",The Gamma People (1956)
-https://starshare.live:443/movie/Leroy123/Leroy123/189926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Gathering Storm (2002)" tvg-logo="http://starshare.live:8080/images/9188a8c9795cdb2c6ca2b6f88c129222.jpg" group-title="ENGLISH 1999-2020",The Gathering Storm (2002)
-https://starshare.live:443/movie/Leroy123/Leroy123/189927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Gauntlet (2013)" tvg-logo="http://starshare.live:8080/images/e58761536cb06c9c638e115ad36f6f0b.jpg" group-title="ENGLISH 1999-2020",The Gauntlet (2013)
-https://starshare.live:443/movie/Leroy123/Leroy123/189928.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Spark Sports Event 1" tvg-logo="https://s3.amazonaws.com/arc-authors/nzme/2de6f7db-58c0-425c-bb73-775d4dd243c6.png" group-title="SPARK SPORTS",Spark Sports Event 1
 https://starshare.live:443/live/Leroy123/Leroy123/277955.ts
 #EXTINF:-1 tvg-id="" tvg-name="Spark Sports Event 2" tvg-logo="https://s3.amazonaws.com/arc-authors/nzme/2de6f7db-58c0-425c-bb73-775d4dd243c6.png" group-title="SPARK SPORTS",Spark Sports Event 2
